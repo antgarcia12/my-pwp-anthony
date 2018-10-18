@@ -14,6 +14,7 @@
 			<p>In the end, my goal is to attract freelance clients, from a wide range of local business, of any type, that could potentially be lasting partnerships.</p>
 		<h1>Persona</h1>
 			<p><strong>Name: </strong>Sandy Sanchez</p>
+			<p><strong>Age: </strong>30 years old</p>
 			<p><strong>Job:</strong>Nursing, RN</p>
 			<p><strong>Technology: </strong><em>Computer- </em>HP EliteBook x360 1020 Laptop OS: Windows 10 Pro <em>Phone- </em> iPhone X with iOS 12</p>
 			<p><strong>Attitude: </strong>Sandy is a passionate nurse, enjoying what she does everyday, taking care of people on a daily basis. Recently, Sandy had been discussing with her father about a new venture into the house flipping business, as she has the money to do so. Sandy is certainly enthusiastic on what could become of this new challenge.</p>

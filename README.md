@@ -11,3 +11,17 @@ Personal Website Project will test and show what I've learned about the technolo
   * Example: Sandy has had a hard time finding the portfolios of potential contractors/businesses she is looking to hire and will longer consider a service-provider whose portfolio is not easily accessible.
 
 ### Grade Tier III
+
+
+### Milestone 2a Feedback
+Good work on these wireframes and accompanying content strategy - your design ideas are clear but my only suggestion here would be to have more detail when it comes to defining the target audience. Other than that, your content strategy will be a good influence on your design.
+
+For your portfolio section, you might want to stack these items on the smallest screens to ensure there is enough space to comfortably see every image. I also think you'll want to fix that line about "Here is a link to my projects I have been working on..." Maybe shorten it up. It'll help take away some of that clutter and give it a cleaner look.
+
+You could also consider interactive gallery functionality like [FancyBox3](http://fancyapps.com/fancybox/3/).
+
+Additional recommendations:
+- [Google Fonts](https://fonts.google.com/) for custom typography - it has ~1000 fonts and is easy to integrate.
+- [FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
+
+Your Milestone 2a passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin development on your PWP. Keep it up!

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Muli', sans-serif;
+}
+
+.padding {
+	margin-top: 4em;
+}
+
+.garcia {
+	margin-bottom: 1em;
+}
+
+.web {
+	margin-bottom: 1em;
+}
+
+.about {
+	margin-bottom: 5%;
+}

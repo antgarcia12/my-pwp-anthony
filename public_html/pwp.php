@@ -53,60 +53,22 @@
 		<!-- About -->
 		<div class="container-fluid padding">
 			<div class="row about text-left">
-				<div class="col-12">
-					<h1 class="display-3">About Me</h1>
+				<div class="col-lg-6">
+					<h1 class="display-3 abt-me">About Me</h1>
 					<p class="about-me">My name is Anthony Garcia. I am a graduated of the CNM Ingenuity's Deep Diving Coding and earned my certification through the Fullstack Web Development bootcamp they offer. Through my experience of the bootcamp, I learned that many web developers' journeys are all different; it showed me the meaning of diversity in a real work-related environment. I was originally going to school to earn my associates in nursing. Through a process of trial and error, I found that nursing was not the right career for me. I didn't want to waste years trying to find a new career and thankfully, a good friend of mine had mention the bootcamp, which drew my attention to what could come. With research and the help of a "gut feeling," I made the choice to take the first step into the world of coding. In all honesty, I had no prior experience to the bootcamp. The weeks went by and I started to see that I didn't experience going into this. I was fortunate enough to learn years of schooling into 10 of the fastest weeks of my life. I am confident in my capabilities and the product I can produce. My goal is to meet anybody's standards, no matter the challenge, any we can work things out, I hope to change the landscape of our community and economy here in Albuquerque.</p>
+				</div>
+				<div class="col-lg-6 mr-1">
+					<img src="images/dd-coding-icon-cnmii-stem.png" class="img-fluid">
 				</div>
 			</div>
 		</div>
 		<!-- Portfolio -->
-		<div class="container padding">
-			<div class="row portfolio">
-					<h1 class="display-3 text-left">Portfolio</h1>
-					<div class="languages">
-					<div id="carouselIndicators" class="carousel slide" data-ride="carousel">
-						<ol class="carousel-indicators">
-							<li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
-							<li data-target="#carouselIndicators" data-slide-to="1"></li>
-							<li data-target="#carouselIndicators" data-slide-to="2"></li>
-							<li data-target="#carouselIndicators" data-slide-to="3"></li>
-							<li data-target="#carouselIndicators" data-slide-to="4"></li>
-							<li data-target="#carouselIndicators" data-slide-to="5"></li>
-						</ol>
-						<div class="carousel-inner">
-							<div class="carousel-item active">
-								<img class="d-block" src="images/family-photo-stock.jpg" id="First slide">
-							</div>
-							<div class="carousel-item">
-								<img class="d-block" src="images/html-5-logo.png" id="Second slide">
-							</div>
-							<div class="carousel-item">
-								<img class="d-block" src="images/css-3-logo.png" id="Third slide">
-							</div>
-							<div class="carousel-item">
-								<img class="d-block" src="images/mysql-logo.png" id="Fourth slide">
-							</div>
-							<div class="carousel-item">
-								<img class="d-block" src="images/bootstrap-logo.png" id="Fifth slide">
-							</div>
-							<div class="carousel-item">
-								<img class="d-block" src="images/angular-logo.png" id="Sixth slide">
-							</div>
-						<a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
-							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-							<span class="sr-only">Previous</span>
-						</a>
-						<a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
-							<span class="carousel-control-next-icon" aria-hidden="true"></span>
-							<span class="sr-only">Next</span>
-						</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+
 		<!-- Contact -->
 		<form id="contact-form" method="POST" action="php/mailer.php" novalidate="novalidate">
+			<div class="fluid-container main-container vertical-center">
+				<div class="col-md-5 m-auto">
+					<h1 class="display-3 id="cm">Contact Me</h1>
 		<div class="form-group">
 			<label for="name">
 				Name
@@ -134,6 +96,8 @@
 			<div class="g-recaptcha" data-sitekey="6Lek0HsUAAAAAEjr4NxRbvQlVkRG7Vr-p5tdJviY"></div>
 			<button class="btn btn-dark" type="submit">Send</button>
 			<button class="btn btn-danger" type="reset">Reset</button>
+			</div>
+			</div>
 		</form>
 		<!-- Footer -->
 		<footer class="bg-dark">

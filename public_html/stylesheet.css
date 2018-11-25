@@ -19,11 +19,22 @@ html, body {
 }
 
 .about {
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 }
 
-.carousel-inner img {
-	height: 500px;
-	object-fit: fill;
-	object-position: center;
+.abt-me {
+	margin-bottom: .25em;
+}
+
+.img-fluid {
+	margin-top: .25em;
+	margin-bottom: 4em;
+}
+
+#cm {
+	margin-bottom: 1em;
+}
+
+@media (min-width: 600px) {
+	
 }

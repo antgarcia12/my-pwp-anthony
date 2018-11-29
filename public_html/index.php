@@ -8,13 +8,6 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
-
-		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
-
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
@@ -24,34 +17,50 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+		<!-- Mailer -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/jquery-validator.js"></script>
+
+
 		<!-- Font Awesome -->
 		<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
 		<!-- Google Font -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+
 		<!-- CSS Page -->
 		<link href="stylesheet.css" rel="stylesheet">
 	</head>
 	<body>
+		<!-- Nav Bar -->
+		<nav class="navbar navbar-expand-md navbar-dark">
+			<img src="images/zia-bw.jpg" id="zia">
+		</nav>
 		<!-- Welcome -->
-		<div class="container-fluid padding">
-			<div class="row welcome">
+		<header class="h-100" id="welcome">
+		<div class="container-fluid">
+			<div class="row">
 				<div class="col-12">
 					<h1 class="garcia display-3">Anthony Garcia</h1>
 					<h1 class="web display-4">Web Developer</h1>
-				<div class="about col-md-12 col-lg text-center">
-					<h2><a href="#about">About</a></h2>
+				<div class="about-link col-md-12 col-lg text-center">
+					<a href="#about"><button type="button" class="btn btn-outline-light">About</button></a>
 				</div>
-				<div class="about col-md-12 col-lg text-center">
-					<h2><a href="#portfolio">Portfolio</a></h2>
+				<div class="portfolio-link col-md-12 col-lg text-center">
+					<a href="#portfolio"><button type="button" class="btn btn-outline-light">Portfolio</button></a>
 				</div>
-				<div class="about col-md-12 col-lg text-center">
-					<h2><a href="#contact">Contact Me</a></h2>
-				</div>
+				<div class="contact-link col-md-12 col-lg text-center">
+					<a href="#contact"><button type="button" class="btn btn-outline-light">Contact Me</button></a>
 				</div>
 			</div>
 		</div>
+		</header>
 		<!-- About -->
-		<div class="container-fluid padding">
+		<div class="container-fluid">
 			<div class="row about text-left">
 				<div class="col-lg-6">
 					<h1 class="display-3 abt-me">About Me</h1>
@@ -99,6 +108,8 @@
 			</div>
 			</div>
 		</form>
+		<!-- End Contact Form -->
+		<div id="output-area"></div>
 		<!-- Footer -->
 		<footer class="bg-dark">
 			<div class="container-fluid padding">

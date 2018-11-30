@@ -48,19 +48,19 @@
 					<h1 class="garcia display-3">Anthony Garcia</h1>
 					<h1 class="web display-4">Web Developer</h1>
 				<div class="about-link col-md-12 col-lg text-center">
-					<a href="#about"><button type="button" class="btn btn-outline-light">About</button></a>
+					<a href="#anthony"><button type="button" class="btn btn-outline-light">About</button></a>
 				</div>
 				<div class="portfolio-link col-md-12 col-lg text-center">
-					<a href="#portfolio"><button type="button" class="btn btn-outline-light">Portfolio</button></a>
+					<a href="#work"><button type="button" class="btn btn-outline-light">Portfolio</button></a>
 				</div>
 				<div class="contact-link col-md-12 col-lg text-center">
-					<a href="#contact"><button type="button" class="btn btn-outline-light">Contact Me</button></a>
+					<a href="#hey"><button type="button" class="btn btn-outline-light">Contact Me</button></a>
 				</div>
 			</div>
 		</div>
 		</header>
 		<!-- About -->
-		<section>
+		<section id="anthony">
 			<div class="container-fluid about-me">
 				<div class="row about text-left">
 					<div class="col-lg-6">
@@ -74,7 +74,7 @@
 			</div>
 		</section>
 		<!-- Portfolio -->
-		<section>
+		<section id="work">
 			<h1 class="display-2 text-align-right port-section">Portfolio</h1>
 			<div class="container mt-5 port-work">
 				<div class="row">
@@ -109,7 +109,7 @@
 			</div>
 		</section>
 		<!-- Contact -->
-		<section class="contact-section">
+		<section class="contact-section" id="hey">
 		<form id="contact-form" method="POST" action="php/mailer.php" novalidate="novalidate">
 			<div class="fluid-container main-container">
 				<div class="col-md-5 m-auto">
@@ -151,8 +151,8 @@
 		<footer>
 			<div class="container-fluid">
 				<div class="row d-flex display-inline justify-content-center pl-0">
-					<a href="#"><i class="fab fa-github fa-3x"></i></a>
-					<a href="#"><i class="fab fa-linkedin fa-3x"></i></a>
+					<a href="https://github.com/antgarcia12/"><i class="fab fa-github fa-3x"></i></a>
+					<a href="https://www.linkedin.com/in/antgarcia47/"><i class="fab fa-linkedin fa-3x"></i></a>
 				</div>
 			</div>
 		</footer>

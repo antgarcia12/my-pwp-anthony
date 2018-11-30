@@ -84,6 +84,22 @@
 								<h5 class="card-title">FamilyConnect</h5>
 								<p class="card-text">With the help of my capstone team, I was able to create a family platform that help engage and keep in touch of family, both immediate and distant. Although it may be another social media, this app had a goal to bring families closer and share experiences with loved ones.</p>
 							</div>
+							<div class="col-lg-3 col-sm-6">
+								<img class="img-fluid d-block mx-auto mb-4" src="images/code-stock.jpg" alt="Coding image">
+								<div class="card mb-4">
+									<div class="card-body">
+										<h5 class="card-title">Data Design</h5>
+										<p class="card-text">My data design project taught me the fundamentals of back end development. With the help of mySQL and PHP, I experienced first hand how to store data and add security in oder to keep the sensitive data safe. </p>
+									</div>
+									<div class="col-lg-3 col-sm-6">
+										<img class="img-fluid d-block mx-auto mb-4" src="images/family-photo-stock.jpg" alt="FamilyConn">
+										<div class="card mb-4">
+											<div class="card-body">
+												<h5 class="card-title">FamilyConnect</h5>
+												<p class="card-text">With the help of my capstone team, I was able to create a family platform that help engage and keep in touch of family, both immediate and distant. Although it may be another social media, this app had a goal to bring families closer and share experiences with loved ones.</p>
+											</div>
+										</div>
+								</div>
 						</div>
 					</div>
 				</div>

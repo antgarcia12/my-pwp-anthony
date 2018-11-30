@@ -76,9 +76,15 @@ header {
 	margin-top: 1.5em;
 }
 
+#card-train {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
 .card{
-	margin-left: 2em;
-	margin-right: 8.25%;
+	margin-right: 15px;
+	margin-left: 15px;
 	margin-bottom: 10em;
 }
 

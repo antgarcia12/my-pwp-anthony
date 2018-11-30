@@ -65,8 +65,8 @@
 		<!-- About -->
 		<section id="anthony">
 			<div class="container-fluid about-me">
-				<div class="row about text-left">
-					<div class="col-lg-6">
+				<div class="row about">
+					<div class="col-lg-12">
 						<h1 class="display-3 abt-me">About Me</h1>
 						<p class="story">My name is Anthony Garcia. I am a graduated of the CNM Ingenuity's Deep Diving Coding and earned my certification through the Fullstack Web Development bootcamp they offer. Through my experience of the bootcamp, I learned that many web developers' journeys are all different; it showed me the meaning of diversity in a real work-related environment. I was originally going to school to earn my associates in nursing. Through a process of trial and error, I found that nursing was not the right career for me. I didn't want to waste years trying to find a new career and thankfully, a good friend of mine had mention the bootcamp, which drew my attention to what could come. With research and the help of a "gut feeling," I made the choice to take the first step into the world of coding. In all honesty, I had no prior experience to the bootcamp. The weeks went by and I started to see that I didn't experience going into this. I was fortunate enough to learn years of schooling into 10 of the fastest weeks of my life. I am confident in my capabilities and the product I can produce. My goal is to meet anybody's standards, no matter the challenge, any we can work things out, I hope to change the landscape of our community and economy here in Albuquerque.</p>
 					</div>
@@ -80,7 +80,7 @@
 		<section id="work">
 			<h1 class="display-2 text-align-right port-section">Portfolio</h1>
 			<div class="container mt-5 port-work">
-				<div class="row">
+				<div class="row" id="card-train">
 					<div class="card border-dark col-lg-3 col-sm-6">
 						<img class="img-fluid d-block mx-auto mb-4" src="images/family-photo-stock.jpg" alt="FamilyConn">
 						<div class="card mb-4">

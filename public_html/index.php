@@ -149,11 +149,10 @@
 		</section>
 		<!-- Footer -->
 		<footer>
-			<div class="container-fluid padding">
-				<div class="row">
-					<a href="#"><i class="fab fa-github"></i></a>
-					<a href="#"><i class="fab fa-linkedin"></i></a>
-					<a href="#"><i class="fas fa-envelope-square"></i></a>
+			<div class="container-fluid">
+				<div class="row d-flex display-inline justify-content-center pl-0">
+					<a href="#"><i class="fab fa-github fa-3x"></i></a>
+					<a href="#"><i class="fab fa-linkedin fa-3x"></i></a>
 				</div>
 			</div>
 		</footer>

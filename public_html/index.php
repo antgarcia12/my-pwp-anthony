@@ -34,6 +34,9 @@
 
 		<!-- CSS Page -->
 		<link href="stylesheet.css" rel="stylesheet">
+
+		<!-- Javascript -->
+		<script type="text/javascript" src="./js/button.js"></script>
 	</head>
 	<body>
 		<!-- Nav Bar -->
@@ -156,5 +159,6 @@
 				</div>
 			</div>
 		</footer>
+		<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 	</body>
 </html>

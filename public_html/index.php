@@ -75,41 +75,45 @@
 		</section>
 		<!-- Portfolio -->
 		<section>
+			<h1 class="display-2 text-align-right port-section">Portfolio</h1>
 			<div class="container mt-5 port-work">
 				<div class="row">
-					<div class="col-lg-3 col-sm-6">
+					<div class="card border-dark col-lg-3 col-sm-6">
 						<img class="img-fluid d-block mx-auto mb-4" src="images/family-photo-stock.jpg" alt="FamilyConn">
 						<div class="card mb-4">
 							<div class="card-body">
 								<h5 class="card-title">FamilyConnect</h5>
 								<p class="card-text">With the help of my capstone team, I was able to create a family platform that help engage and keep in touch of family, both immediate and distant. Although it may be another social media, this app had a goal to bring families closer and share experiences with loved ones.</p>
 							</div>
-							<div class="col-lg-3 col-sm-6">
-								<img class="img-fluid d-block mx-auto mb-4" src="images/code-stock.jpg" alt="Coding image">
-								<div class="card mb-4">
-									<div class="card-body">
-										<h5 class="card-title">Data Design</h5>
-										<p class="card-text">My data design project taught me the fundamentals of back end development. With the help of mySQL and PHP, I experienced first hand how to store data and add security in oder to keep the sensitive data safe. </p>
-									</div>
-									<div class="col-lg-3 col-sm-6">
-										<img class="img-fluid d-block mx-auto mb-4" src="images/family-photo-stock.jpg" alt="FamilyConn">
-										<div class="card mb-4">
-											<div class="card-body">
-												<h5 class="card-title">FamilyConnect</h5>
-												<p class="card-text">With the help of my capstone team, I was able to create a family platform that help engage and keep in touch of family, both immediate and distant. Although it may be another social media, this app had a goal to bring families closer and share experiences with loved ones.</p>
-											</div>
-										</div>
-								</div>
+						</div>
+					</div>
+					<div class="card border-dark col-lg-3 col-sm-6">
+						<img class="img-fluid d-block mx-auto mb-4" src="images/code-stock.jpg" alt="Code Image">
+						<div class="card mb-4">
+							<div class="card-body">
+								<h5 class="card-title">Data-Design</h5>
+								<p class="card-text">My data design project introduce me to the concepts and the languages of the back end development. I was able to create a data base and add some security to it in order to keep the data safe. It showed me that the back end development is just as important than the front end. </p>
+							</div>
+						</div>
+					</div>
+					<div class="card border-dark col-lg-3 col-sm-6">
+						<img class="img-fluid d-block mx-auto mb-4" src="images/doors-of-oppurtunity.jpg" alt="Opportunity">
+						<div class="card mb-4">
+							<div class="card-body">
+								<h5 class="card-title">Future Goals</h5>
+								<p class="card-text">As my time at Deep Dive ended, I realize I still have a lifetime to learn new concepts in the world of coding. My small experience does not define how driven I am to learn, and hopefully soon, I can add more to my portfolio. Follow me on this journey, I would love to show you what I can do.</p>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!-- Contact -->
+		<section class="contact-section">
 		<form id="contact-form" method="POST" action="php/mailer.php" novalidate="novalidate">
-			<div class="fluid-container main-container vertical-center">
+			<div class="fluid-container main-container">
 				<div class="col-md-5 m-auto">
-					<h1 class="display-3 id="cm">Contact Me</h1>
+					<h1 class="display-3" id="cm">Contact Me</h1>
 		<div class="form-group">
 			<label for="name">
 				Name
@@ -142,8 +146,9 @@
 		</form>
 		<!-- End Contact Form -->
 		<div id="output-area"></div>
+		</section>
 		<!-- Footer -->
-		<footer class="bg-dark">
+		<footer>
 			<div class="container-fluid padding">
 				<div class="row">
 					<a href="#"><i class="fab fa-github"></i></a>

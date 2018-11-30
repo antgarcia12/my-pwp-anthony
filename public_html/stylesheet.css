@@ -54,8 +54,8 @@ header {
 
 .abt-me {
 	margin-bottom: .25em;
-	color: #5B5B59;
-	font-family: 'Muli', sans-serif ;
+	color: azure;
+	text-align: right;
 }
 
 .about-me {
@@ -64,6 +64,7 @@ header {
 
 .story {
 	color: #9C9B93;
+	font-family: 'Muli', sans-serif;
 }
 
 .dd-fluid {
@@ -71,3 +72,37 @@ header {
 	margin-bottom: 4em;
 }
 
+.port-section {
+	margin-top: 1.5em;
+}
+
+.card{
+	margin-right: 8.25%;
+	margin-bottom: 10em;
+}
+
+.img-fluid {
+	margin-top: 1em;
+}
+
+#contact-form {
+	background: #0D0D0D;
+}
+
+#cm {
+	color: azure;
+}
+
+label {
+	color: azure;
+}
+
+footer {
+	padding: 1em;
+	display: flex;
+	background: #0D0D0D;
+}
+
+.fab {
+	display: inline-block;
+}

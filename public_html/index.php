@@ -154,8 +154,8 @@
 		<footer>
 			<div class="container-fluid">
 				<div class="row d-flex display-inline justify-content-center pl-0">
-					<a href="https://github.com/antgarcia12/"><i class="fab fa-github fa-3x"></i></a>
-					<a href="https://www.linkedin.com/in/antgarcia47/"><i class="fab fa-linkedin fa-3x"></i></a>
+					<a href="https://github.com/antgarcia12/" target="_blank"><i class="fab fa-github fa-3x"></i></a>
+					<a href="https://www.linkedin.com/in/antgarcia47/" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
 				</div>
 			</div>
 		</footer>

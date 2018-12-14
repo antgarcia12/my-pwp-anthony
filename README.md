@@ -25,3 +25,16 @@ Additional recommendations:
 - [FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
 
 Your Milestone 2a passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin development on your PWP. Keep it up!
+
+### Milestone 3
+Beautiful PWP! I love the background image you used, and the way you designed your typography over the top of it. Your site looks good on mobile and the contact form works. I also like the "Top" button that scrolls you back up - and your HTML code looks clean and well thought out. 
+
+Your CSS looks good, but a little haphazard - I think if you planned out your sections/classes more before you start styling, your CSS could be very organized like your HTML is. Overall awesome job Ant!
+
+Your Milestone 3 passes at a Tier IV.
+
+Milestone 1 20% Tier III 30(0.2) = 6
+Milestone 2a 20% Tier III 30(0.2) = 6
+Milestone 2b 10% Tier III 30(0.1) = 3
+Milestone 3 50% Tier IV 40(0.5) = 20
+Final 35/40

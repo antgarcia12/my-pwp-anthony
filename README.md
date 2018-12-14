@@ -33,8 +33,8 @@ Your CSS looks good, but a little haphazard - I think if you planned out your se
 
 Your Milestone 3 passes at a Tier IV.
 
-Milestone 1 20% Tier III 30(0.2) = 6\
+Milestone 1 20% Tier III 40(0.2) = 8\
 Milestone 2a 20% Tier III 30(0.2) = 6\
 Milestone 2b 10% Tier III 30(0.1) = 3\
 Milestone 3 50% Tier IV 40(0.5) = 20\
-Final 35/40
+Final 37/40
